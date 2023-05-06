@@ -52,7 +52,7 @@ def set_lang(update: Update, _) -> None:
         [
             InlineKeyboardButton(
                 text="Channel",
-                url="https://t.me/libisupport",
+                url="https://t.me/Amang Robotsupport",
             )
         ]
     )
@@ -103,7 +103,7 @@ def langsback_button(update: Update, _) -> None:
         [
             InlineKeyboardButton(
                 text="Channel",
-                url="https://t.me/libisupport",
+                url="https://t.me/Amang Robotsupport",
             )
         ]
     )

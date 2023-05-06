@@ -1,7 +1,7 @@
 # Language name in their native
 language: "Jawa 🇮🇩"
 # name of people(s) who worked on this translation
-authors: "@greyyvbss"
+authors: "@amwangs"
 
 # languages
 curr_chat_lang: "Hei. Basa sampeyan saiki yaiku {}, pilih sing dikarepake saka tombol ing ngisor iki :)"
@@ -9,19 +9,19 @@ set_chat_lang: "Apik, nggunakake Basa {} iku wiwit saiki! 🤖"
 
 # PM Text
 pm_start_text: |
-  *Hello aku Referz Store Assistant* [⚡️](https://te.legra.ph/file/d70ad4bd44df748796576.jpg)
+  *Hello aku ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ*
   
-  ❍ Referz Store Assistant minangka manajer bot kanggo ngatur grup sampeyan kanthi apik.
-  ❍ Pencet /help kanggo Pitulung.
-  ❍ Dijaga dening @Bintangreferz.
-   
+  ᴀᴍᴀɴɢʀᴏʙᴏᴛ ᴍɪɴᴀɴɢᴋᴀ ᴍᴀɴᴀᴊᴇʀ ʙᴏᴛ + ᴍᴜsɪᴋ ᴋᴀɴɢɢᴏ ɴɢᴀᴛᴜʀ ɢʀᴜᴘ ᴋᴀɴᴛʜɪ ᴀᴘɪᴋ.
+  × 21586 ᴜꜱᴇʀꜱ 
+  × 7295 ᴄʜᴀᴛꜱ
+
 group_start_text: |
-  *👋🏻 , aku Referz Store Assistant !*
+  *👋🏻 , aku ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ !*
   
   *Miwiti aktif wiwit :* `{}`
 
 pm_about_text: |
-  ⚡️ Hai aku *𝒍𝒊𝒃𝒊*, bot manajemen grup sing kuat sing dibangun kanggo mbantu sampeyan ngatur grup kanthi gampang. ⚡️
+  ⚡️ Hai aku *ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ*, bot manajemen grup sing kuat sing dibangun kanggo mbantu sampeyan ngatur grup kanthi gampang. ⚡️
 
   ❍ Aku bisa mbatesi pangguna.
   ❍ Aku bisa menehi salam marang pangguna kanthi pesen sambutan sing bisa disesuaikan lan malah nyetel aturan grup.
@@ -30,12 +30,12 @@ pm_about_text: |
   ❍ Aku duwe sistem nyimpen cathetan, dhaptar ireng, lan malah balesan sing wis ditemtokake ing tembung kunci tartamtu.
   ❍ Aku mriksa ijin admin sadurunge nglakokake perintah lan liya-liyane
 
-  _𝒍𝒊𝒃𝒊 Ilham dilisensi ing GNU General Public License v3.0_
-  Klik tombol ing ngisor iki kanggo njaluk bantuan dhasar kanggo 𝒍𝒊𝒃𝒊.
+  _ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ Ilham dilisensi ing GNU General Public License v3.0_
+  Klik tombol ing ngisor iki kanggo njaluk bantuan dhasar kanggo ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ.
 pm_about_admin_text: |
   *⚡️ Ayo gawe grupmu dadi efektif saiki ⚡️*
 
-  Sugeng rawuh, 𝒍𝒊𝒃𝒊 saiki wis siyap ngatur grupmu.
+  Sugeng rawuh, ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ saiki wis siyap ngatur grupmu.
 
   *Alat Admin*
   Piranti Admin dhasar mbantu sampeyan nglindhungi lan nguatake grup sampeyan.
@@ -50,13 +50,13 @@ pm_about_notes_text: |
   ❍ Sampeyan bisa nyimpen pesen / media / audio utawa apa wae minangka cathetan kanggo entuk cathetan mung nggunakake # ing wiwitan tembung
   ❍ Sampeyan uga bisa nyetel tombol kanggo cathetan lan saringan (waca menu pitulung)
 pm_about_support_text: |
-  *⚡️ 𝒍𝒊𝒃𝒊 support chats ⚡️*
+  *⚡️ ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ support chats ⚡️*
 
-  Join Group Dhukungan Kula / Channel kanggo ndeleng utawa laporan masalah ing 𝒍𝒊𝒃𝒊.
+  Join Group Dhukungan Kula / Channel kanggo ndeleng utawa laporan masalah ing ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ.
 pm_about_credit_text: |
-  *⚡️ Kredit kanggo 𝒍𝒊𝒃𝒊 ⚡️*
+  *⚡️ Kredit kanggo ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ ⚡️*
 
-  Ing kene Pengembang Nggawe Lan Menehi Inspirasi Kanggo Made The 𝒍𝒊𝒃𝒊
+  Ing kene Pengembang Nggawe Lan Menehi Inspirasi Kanggo Made The ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ
 pm_help_text: |
   *❍ Klik tombol ing ngisor iki kanggo entuk katrangan babagan prentah spesifik. ✪*
   
@@ -82,12 +82,12 @@ group_settings_button: "Setelan"
 
 # Help Text
 help_all_text: |
-  *Printah Pitulungan 𝒍𝒊𝒃𝒊* [🗃](https://telegra.ph/file/6f5d77e5f2137215bc22d.jpg)
+  *Printah Pitulungan ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ* [🗃](https://telegra.ph/file/6f5d77e5f2137215bc22d.jpg)
   
   Pilih tombol ing ngisor iki kanggo ndeleng
-  Bantuan printah 𝒍𝒊𝒃𝒊.
+  Bantuan printah ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ.
 help_musik_cilik_text: |
-  *Robot 𝒍𝒊𝒃𝒊 Nduwe fitur Musik lan Stream* 🎥
+  *Robot ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ Nduwe fitur Musik lan Stream* 🎥
   
   Sampeyan bisa ngrungokake musik saka platform Youtube, Spotify, Resso lsp.
   Klik Tombol ing ngisor iki yen sampeyan ora ngerti babagan fitur iki.
@@ -136,7 +136,7 @@ play_mhelp_text: |
 bot_mhelp_text: |
   *✅Bot Commands:*
   ❍ /mstats - Get Top 10 Tracks Global Stats, Top 10 Users of bot, Top 10 Chats on bot, Top 10 Played in a chat etc etc.
-  ❍ /sudolist - Check Sudo Users of Libi Music Bot
+  ❍ /sudolist - Check Sudo Users of Amang Robot Music Bot
   ❍ /lyrics Music Name - Searches Lyrics for the particular Music on web.
   ❍ /song Track Name or YT Link - Download any track from youtube in mp3 or mp4 formats.
   
@@ -183,7 +183,7 @@ note_button: "Cathetan"
 source_button: "Kode Sumber"
 help_button: "❓ Njaluk Bantuan"
 back_button: "🔙 Balik"
-about_button: "About 𝒍𝒊𝒃𝒊 🤖"
+about_button: "About ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ 🤖"
 inline_button: "Coba inline!"
 buttonback_lang: "🔙 Balik"
 datalang: "Basa 🇮🇩" 
@@ -192,7 +192,7 @@ donate_button: "Donasi ☕️"
 # Donate
 donate_text: |
   [👨‍💻](https://telegra.ph/file/02630dc3593b90c9cc0e0.jpg) *Kanggo sampeyan sing pengin nyumbang*
-  mangga pindai Qris ing ngisor iki, supaya bot-bot Libi tetep urip lan mbantu aktivitas sampeyan ing Telegram.
+  mangga pindai Qris ing ngisor iki, supaya bot-bot Amang Robot tetep urip lan mbantu aktivitas sampeyan ing Telegram.
   
 # MODULES
 admin_help: |
@@ -359,7 +359,7 @@ blacklist_help: |
 bug_help : |
     ──「Laporan Bug」──
     
-    Laporan Bug Iku modul kanggo nglaporake bug ing bot 𝒍𝒊𝒃𝒊
+    Laporan Bug Iku modul kanggo nglaporake bug ing bot ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ
     Supaya bot bisa didandani kanthi cepet
     
     dhawuh :
@@ -369,7 +369,7 @@ bug_help : |
 chatbot_help: |
     ──「 Chatbot AI 」──
 
-    𝒍𝒊𝒃𝒊 AI minangka siji-sijine sistem ai sing bisa ndeteksi & mbales nganti 200 basa
+    ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ AI minangka siji-sijine sistem ai sing bisa ndeteksi & mbales nganti 200 basa
 
     ❍ /chatbot [ON/OFF]: Ngaktifake lan mateni mode AI Chat.
     ❍ /chatbot EN : Ngaktifake chatbot Inggris mung.
@@ -465,7 +465,7 @@ fsub_feds_help: |
 
     *Paksa Subscribe:*
 
-    𝒍𝒊𝒃𝒊 bisa bisu anggota sing ora langganan saluran sampeyan nganti langganan Yen aktif aku bakal bisu anggota sing ora langganan lan nuduhake tombol unmute. Nalika padha menet tombol aku bakal unmute wong
+    ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ bisa bisu anggota sing ora langganan saluran sampeyan nganti langganan Yen aktif aku bakal bisu anggota sing ora langganan lan nuduhake tombol unmute. Nalika padha menet tombol aku bakal unmute wong
 
     *Setup* *:* *Mung pangripta*
     ❍ Tambahake aku ing grup sampeyan minangka admin
@@ -536,7 +536,7 @@ filters_help: |
     *mung Admin :*
     ❍ /filter <keyword> <reply message>*:* Tambah filter menyang chatting iki. Bot saiki bakal mangsuli pesen kasebut kapan wae 'kata kunci'\
     kasebut. Yen sampeyan mbales stiker nganggo tembung kunci, bot bakal mbales nganggo stiker kasebut. CATETAN: kabeh filter \
-    tembung kunci ana ing aksara 𝒍𝒊𝒃𝒊. Yen sampeyan pengin tembung kunci dadi ukara, gunakake kuotasi. contone: /filter "hey there" Piye sampeyan \
+    tembung kunci ana ing aksara ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ. Yen sampeyan pengin tembung kunci dadi ukara, gunakake kuotasi. contone: /filter "hey there" Piye sampeyan \
     nindakake?
     Pisahake balesan beda kanthi `%%%` kanggo entuk balesan acak
       *Conto:*
@@ -681,7 +681,7 @@ info_and_afk_help: |
       - brb <alesan>: Padha karo dhawuh afk, nanging dudu dhawuh.
       
     *Kesehatan iku opo?*
-    Teka lan deleng [Sistem HP diterangake](https://t.me/libisupport/1199)
+    Teka lan deleng [Sistem HP diterangake](https://t.me/Amang Robotsupport/1199)
 language_help: |
     ──「Basa」──
 
@@ -797,7 +797,7 @@ notes_help: |
     ❍ /clear <notename>*:* cetha cathetan karo jeneng iki
     ❍ /removeallnotes*:* mbusak kabeh cathetan saka grup
 
-    * Cathetan:* Jeneng cathetan ora sensitif huruf 𝒍𝒊𝒃𝒊, lan kanthi otomatis diowahi dadi huruf 𝒍𝒊𝒃𝒊 sadurunge disimpen.
+    * Cathetan:* Jeneng cathetan ora sensitif huruf ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ, lan kanthi otomatis diowahi dadi huruf ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ sadurunge disimpen.
 reports_help: |
     ──「Laporan」──
 
@@ -820,9 +820,9 @@ search_help: |
     ❍ /github <username>*:* Entuk informasi babagan pangguna GitHub.
     ❍ /country <jeneng negara>*:* Nglumpukake informasi babagan negara tartamtu
     ❍ /imdb <Jeneng Film>*:* Entuk informasi lengkap babagan film nganggo imdb.com
-    ❍ Libi <query>*:* Libi njawab pitakonan
+    ❍ Amang Robot <query>*:* Amang Robot njawab pitakonan
 
-    💡 Ex : `Libi ngendi Jepang?`
+    💡 Ex : `Amang Robot ngendi Jepang?`
 stickers_help: |
     ──「 Stiker 」──
 
@@ -832,7 +832,7 @@ stickers_help: |
     ❍ /kang*:* mbales stiker kanggo ditambahake menyang paket sampeyan.
     ❍ /delsticker*:* Balas stiker anime ana ing paket sampeyan kanggo mbusak.
     ❍ /stickers*:* Temokake stiker kanggo istilah tartamtu ing katalog stiker combot
-    ❍ /tiny*:* Kanggo nggawe stiker 𝒍𝒊𝒃𝒊
+    ❍ /tiny*:* Kanggo nggawe stiker ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ
     ❍ /kamuii <1-8> *:* Kanggo deepefying stiker
     ❍ /mmf <reply with text>*:* Kanggo nggambar teks kanggo stiker utawa pohot
 tools_help: |

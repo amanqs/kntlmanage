@@ -1,7 +1,7 @@
 # Language name in their native
 language: "Indonesia 🇮🇩"
 # name of people(s) who worked on this translation
-authors: "@greyyvbss"
+authors: "@amwangs"
 
 # languages
 curr_chat_lang: "Hai. Bahasa Anda saat ini adalah {}, pilih yang Anda inginkan dari tombol di bawah :)"
@@ -9,19 +9,18 @@ set_chat_lang: "Bagus, menggunakan Bahasa {} mulai sekarang! 🤖"
 
 # PM Text
 pm_start_text: |
-  *Hello aku RED LINE SEX* [⚡️](https://telegra.ph//file/6f7d2641d558c8d88431f.jpg)
+  *ʜᴀɪ ɴᴀᴍᴀ sᴀʏᴀ ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ.
  
-  ❍ RED LINE SEX BOT adalah bot manager dan music untuk mengelola grup anda dengan baik.
-  ❍ Tekan /help untuk Bantuan.
-  ❍ Maintaned By @yankeseleo.
-   
+  ꜱᴀʏᴀ ᴀᴅᴀʟᴀʜ ʙᴏᴛ ᴍᴀɴᴀɢᴇ + ᴍᴜꜱɪᴄ ʏᴀɴɢ ᴀᴋᴀɴ ᴍᴇɴɢᴇʟᴏʟᴀ ɢʀᴜᴘ ᴍᴜ ᴅᴇɴɢᴀɴ ʙᴀɪᴋ.
+  × 21586 ᴜꜱᴇʀꜱ 
+  × 7295 ᴄʜᴀᴛꜱ
 group_start_text: |
-  *👋🏻 , Aku RED LINE SEX!* 
+  *👋🏻 , Aku ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ!* 
   
-  *Mulai aktif sejak :* `{}`
+  *ᴜᴘᴛɪᴍᴇ :* `{}`
 
 pm_about_text: |
-  ⚡️ Hai  saya *RED LINE SEX*, bot manajemen grup yang kuat yang dibuat untuk membantu Anda mengelola grup dengan mudah. ⚡️
+  ⚡️ Hai  saya *ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ*, bot manajemen grup yang kuat yang dibuat untuk membantu Anda mengelola grup dengan mudah. ⚡️
 
   ❍ Saya dapat membatasi pengguna.
   ❍ Saya dapat menyapa pengguna dengan pesan selamat datang yang dapat disesuaikan dan bahkan menetapkan aturan grup.
@@ -30,12 +29,12 @@ pm_about_text: |
   ❍ Saya memiliki sistem pencatatan, daftar hitam, dan bahkan balasan yang telah ditentukan sebelumnya untuk kata kunci tertentu.
   ❍ Saya memeriksa izin admin sebelum menjalankan perintah apa pun dan hal lainnya
 
-  _RED LINE SEX BOT dilisensikan di bawah GNU General Public License v3.0_
+  _ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ dilisensikan di bawah GNU General Public License v3.0_
   Klik tombol di bawah untuk mendapatkan bantuan dasar. 
 pm_about_admin_text: |
   *⚡️ Ayo buat grupmu sedikit efektif sekarang ⚡️*
 
-  Selamat, 𝒍𝒊𝒃𝒊  sekarang siap untuk mengelola grup Anda.
+  Selamat, ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ  sekarang siap untuk mengelola grup Anda.
 
   *Alat Admin*
   Alat Admin Dasar membantu Anda melindungi dan memperkuat grup Anda.
@@ -50,13 +49,13 @@ pm_about_notes_text: |
   ❍ Anda dapat menyimpan pesan/media/audio atau apa pun sebagai catatan untuk mendapatkan catatan cukup gunakan # di awal kata"
   ❍ Anda juga dapat mengatur tombol untuk catatan dan filter (lihat menu bantuan)
 pm_about_support_text: |
-  *⚡️ Obrolan dukungan 𝒍𝒊𝒃𝒊 ⚡️*
+  *⚡️ Obrolan dukungan ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ ⚡️*
 
-  Bergabunglah dengan Grup/Saluran Dukungan Saya untuk melihat atau melaporkan masalah di 𝒍𝒊𝒃𝒊.
+  Bergabunglah dengan Grup/Saluran Dukungan Saya untuk melihat atau melaporkan masalah di ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ.
 pm_about_credit_text: |
-  *⚡️ Credits for 𝒍𝒊𝒃𝒊 ⚡️*
+  *⚡️ Credits for ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ ⚡️*
 
-  Disini Developers Membuat Dan Memberi Inspirasi Untuk Membuat 𝒍𝒊𝒃𝒊
+  Disini Developers Membuat Dan Memberi Inspirasi Untuk Membuat ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ
 pm_help_text: |
   *❍ Klik tombol di bawah ini untuk mendapatkan deskripsi tentang perintah spesifik. ❍*
   
@@ -82,12 +81,12 @@ group_settings_button: "Pengaturan"
 
 # Help Text
 help_all_text: |
-  *Menu Bantuan RED LINE SEX* [🗃](https://telegra.ph//file/6f7d2641d558c8d88431f.jpg)
+  *Menu Bantuan ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ* [🗃](https://telegra.ph//file/6f7d2641d558c8d88431f.jpg)
   
   Pilih tombol di bawah untuk melihat 
   bantuan perintah bot.
 help_musik_cilik_text: |
-  *RED LINE SEX Memiliki fitur Music dan Stream* 🎥
+  *ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ Memiliki fitur Music dan Stream* 🎥
   
   Anda dapat mendengarkan musik dari platform Youtube,Spotify,Resso dll.
   Klik Tombol di bawah ini jika Anda tidak mengerti tentang fitur ini.
@@ -136,7 +135,7 @@ play_mhelp_text: |
 bot_mhelp_text: |
   *✅Perintah Bot:*
   ❍ /mstats - Dapatkan Top 10 Tracks Global Stats, Top 10 Users of bot, Top 10 Chats on bot, Top 10 Played in a chat, dll.
-  ❍ /sudolist - Periksa Pengguna Sudo dari Bot Musik Libi
+  ❍ /sudolist - Periksa Pengguna Sudo dari Bot Musik Amang Robot
   ❍ /lyrics Music Name - Mencari Lirik untuk Musik tertentu di web.
   ❍ /song Nama Trek atau Tautan YT - Unduh trek apa pun dari youtube dalam format mp3 atau mp4.
    
@@ -183,7 +182,7 @@ notes_button: "Catatan"
 source_button: "Kode sumber"
 help_button: "❓ bantuan"
 back_button: "🔙 Kembali"
-about_button: "Tentang 𝒍𝒊𝒃𝒊 🤖"
+about_button: "Tentang ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ 🤖"
 inline_button: "inline!​​"
 buttonback_lang: "🔙 Kembali"
 datalang: "Bahasa 🇮🇩" 
@@ -192,7 +191,7 @@ donate_button: "Donasi ☕️"
 # Donate
 donate_text: |
   [👨‍💻](https://telegra.ph//file/d6f2b33e6f78b9a38066e.jpg) *Untuk kalian yang ingin berdonasi* 
-  silahkan scan Qris dibawah ini, agar bot RED LINE SEX tetap hidup dan membantu aktifitas anda di Telegram.
+  silahkan scan Qris dibawah ini, agar bot ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ tetap hidup dan membantu aktifitas anda di Telegram.
   
 # MODULES
 admin_help: |
@@ -359,7 +358,7 @@ blacklist_help: |
 bug_help : |
     ──「 Laporan Bug 」──
     
-    Bug Report Merupakan modul untuk melaporkan bug pada bot 𝒍𝒊𝒃𝒊
+    Bug Report Merupakan modul untuk melaporkan bug pada bot ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ
     Supaya botnya bisa diperbaiki secepatnya
     
     Perintah :
@@ -369,7 +368,7 @@ bug_help : |
 chatbot_help: |
     ──「 Bot Obrolan AI 」──
 
-    𝒍𝒊𝒃𝒊 AI adalah satu-satunya sistem AI yang dapat mendeteksi & membalas hingga 200 bahasa
+    ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ AI adalah satu-satunya sistem AI yang dapat mendeteksi & membalas hingga 200 bahasa
 
     ❍ /chatbot [ON/OFF]: Mengaktifkan dan menonaktifkan mode AI Chat.
     ❍ /chatbot EN : Mengaktifkan chatbot berbahasa Inggris saja.
@@ -465,7 +464,7 @@ fsub_feds_help: |
 
     *Paksa Berlangganan:*
 
-    𝒍𝒊𝒃𝒊 dapat membisukan anggota yang tidak berlangganan saluran Anda sampai mereka berlangganan saat diaktifkan, saya akan membisukan anggota yang tidak berlangganan dan menunjukkan kepada mereka tombol suarakan. Ketika mereka menekan tombol, saya akan membunyikan mereka
+    ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ dapat membisukan anggota yang tidak berlangganan saluran Anda sampai mereka berlangganan saat diaktifkan, saya akan membisukan anggota yang tidak berlangganan dan menunjukkan kepada mereka tombol suarakan. Ketika mereka menekan tombol, saya akan membunyikan mereka
 
     *Pengaturan* *:* *Hanya pencipta*
     ❍ Tambahkan saya di grup Anda sebagai admin
@@ -681,11 +680,11 @@ info_and_afk_help: |
       - brb <reason>: Sama seperti perintah afk, tapi bukan perintah.
       
     *Apa itu kesehatan?*
-    Datang dan lihat [Penjelasan Sistem HP](https://t.me/libisupport/1199)
+    Datang dan lihat [Penjelasan Sistem HP](https://t.me/Amang Robotsupport/1199)
 language_help: | 
     ──「 Bahasa 」── 
 
-    Tidak setiap Grup fasih berbahasa Inggris; beberapa grup lebih suka 𝒍𝒊𝒃𝒊 menanggapi dalam bahasa mereka sendiri. 
+    Tidak setiap Grup fasih berbahasa Inggris; beberapa grup lebih suka ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ menanggapi dalam bahasa mereka sendiri. 
 
     Di sinilah terjemahan masuk; Anda dapat mengubah bahasa sebagian besar balasan menjadi bahasa pilihan Anda! 
 
@@ -820,9 +819,9 @@ search_help: |
     ❍ /github <username>*:* Dapatkan informasi tentang pengguna GitHub.
     ❍ /country <nama negara>*:* Mengumpulkan info tentang negara tertentu
     ❍ /imdb <Nama film>*:* Dapatkan info lengkap tentang film dengan imdb.com
-    ❍ Libi <query>*:* Libi menjawab pertanyaan
+    ❍ Amang Robot <query>*:* Amang Robot menjawab pertanyaan
 
-    💡 Contoh : `Libi di mana Jepang?`
+    💡 Contoh : `Amang Robot di mana Jepang?`
 stickers_help: |
     ──「 Stiker 」──
 

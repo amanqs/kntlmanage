@@ -368,9 +368,9 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "📣 sᴜᴘᴘᴏʀᴛ", url="https://t.me/libitrashh"),
+                                "📣 sᴜᴘᴘᴏʀᴛ", url="https://t.me/Amang Robottrashh"),
                             InlineKeyboardButton(
-                                "📨 ᴄʜᴀɴɴᴇʟ", url="https://t.me/libisupport")
+                                "📨 ᴄʜᴀɴɴᴇʟ", url="https://t.me/Amang Robotsupport")
                         ],
                     ]
                 ),
@@ -386,9 +386,9 @@ def info(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                "📣 sᴜᴘᴘᴏʀᴛ", url="https://t.me/libitrashh"),
+                                "📣 sᴜᴘᴘᴏʀᴛ", url="https://t.me/Amang Robottrashh"),
                             InlineKeyboardButton(
-                                "📨 ᴄʜᴀɴɴᴇʟ", url="https://t.me/libisupport")
+                                "📨 ᴄʜᴀɴɴᴇʟ", url="https://t.me/Amang Robotsupport")
                         ],
                     ]
                 ),

@@ -1,7 +1,7 @@
 # Language name in their native
 language: "Sunda 🇮🇩"
 # name of people(s) who worked on this translation
-authors: "@greyyvbss"
+authors: "@amwangs"
 
 # languages
 curr_chat_lang: "Hai. Basa anjeun ayeuna nyaéta {}, pilih anu anjeun pikahoyong tina tombol di handap :)"
@@ -9,19 +9,18 @@ set_chat_lang: "Alus, paké Basa {} ti ayeuna! 🤖"
 
 # PM Text
 pm_start_text: |
-  *Halo Abdi Referz Store Assistant [⚡️](https://te.legra.ph/file/d70ad4bd44df748796576.jpg)
+  *Halo Abdi ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ 
   
-  ❍ Referz Store Assistant mangrupikeun manajer bot + musik pikeun ngatur grup anjeun kalayan saé.
-  ❍ Tekan /help pikeun Bantuan.
-  ❍ Maintaned By @Bintangreferz.
-   
+  ❍ ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ mangrupikeun manajer bot + musik pikeun ngatur grup anjeun kalayan saé.
+  × 21586 ᴜꜱᴇʀꜱ 
+  × 7295 ᴄʜᴀᴛꜱ
 group_start_text: |
-  *👋🏻 , Abdi Referz Store Assistant 
+  *👋🏻 , Abdi ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ 
   
   *Mimitian aktip saprak :* `{}`
 
 pm_about_text: |
-  ⚡️ Hai Abdi *𝒍𝒊𝒃𝒊*, bot manajemén grup anu kuat anu diwangun pikeun ngabantosan anjeun ngatur grup kalayan gampang. ⚡️
+  ⚡️ Hai Abdi *ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ*, bot manajemén grup anu kuat anu diwangun pikeun ngabantosan anjeun ngatur grup kalayan gampang. ⚡️
 
   ❍ Abdi tiasa ngawatesan pamaké.
   ❍ Abdi tiasa ngabagéakeun pamaké kalayan pesen wilujeng sumping customizable komo diatur aturan grup.
@@ -30,12 +29,12 @@ pm_about_text: |
   ❍ Abdi boga sistem logging tos siap pake, blacklisting komo balesan pikeun kecap konci nu tangtu.
   ❍ Abdi pariksa idin admin saméméh ngajalankeun sagala paréntah jeung hal séjén
 
-  _𝒍𝒊𝒃𝒊 dilisensikan di bawah GNU General Public License v3.0_
-  Klik tombol di handap pikeun pitulung dasar pikeun 𝒍𝒊𝒃𝒊.
+  _ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ dilisensikan di bawah GNU General Public License v3.0_
+  Klik tombol di handap pikeun pitulung dasar pikeun ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ.
 pm_about_admin_text: |
   *⚡️ Hayu urang ngadamel grup anjeun sakedik langkung efektif ayeuna ⚡️*
 
-  Wilujeng, 𝒍𝒊𝒃𝒊 parantos siap ngokolakeun grup anjeun.
+  Wilujeng, ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ parantos siap ngokolakeun grup anjeun.
 
   *Alat Admin*
   Alat Admin Dasar ngabantosan anjeun ngajaga sareng nguatkeun grup anjeun.
@@ -50,13 +49,13 @@ pm_about_notes_text: |
   ❍ Anjeun tiasa nyimpen pesen / média / audio atanapi naon waé salaku catetan pikeun nyandak catetan ngan ukur nganggo # di awal kecap"
   ❍ Anjeun ogé tiasa nyetél tombol pikeun catetan sareng saringan (tingali menu pitulung)
 pm_about_support_text: |
-  *⚡️ Obrolan dukungan 𝒍𝒊𝒃𝒊⚡️*
+  *⚡️ Obrolan dukungan ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ⚡️*
 
-  Miluan Grup Dukungan / Saluran kuring pikeun ningali atanapi ngalaporkeun masalah di 𝒍𝒊𝒃𝒊.
+  Miluan Grup Dukungan / Saluran kuring pikeun ningali atanapi ngalaporkeun masalah di ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ.
 pm_about_credit_text: |
-  *⚡️ Credits for 𝒍𝒊𝒃𝒊 ⚡️*
+  *⚡️ Credits for ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ ⚡️*
 
-  Di dieu Pamekar Nyiptakeun Sareng Inspirasi Pikeun Ngadamel 𝒍𝒊𝒃𝒊
+  Di dieu Pamekar Nyiptakeun Sareng Inspirasi Pikeun Ngadamel ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ
 pm_help_text: |
   *❍ Klik tombol di handap pikeun pedaran paréntah husus. ❍*
   
@@ -82,12 +81,12 @@ group_settings_button: "Susunan"
 
 # Help Text
 help_all_text: |
-  *Menu Pitulung 𝒍𝒊𝒃𝒊* [🗃](https://telegra.ph/file/6f5d77e5f2137215bc22d.jpg)
+  *Menu Pitulung ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ* [🗃](https://telegra.ph/file/6f5d77e5f2137215bc22d.jpg)
   
   Pilih tombol di handap pikeun nempo
-  Mantuan paréntah 𝒍𝒊𝒃𝒊.
+  Mantuan paréntah ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ.
 help_musik_cilik_text: | 
-  *Robot 𝒍𝒊𝒃𝒊 Mibanda fitur Musik sareng Stream* 🎥
+  *Robot ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ Mibanda fitur Musik sareng Stream* 🎥
   
   Anjeun tiasa ngadangukeun musik tina platform Youtube, Spotify, Resso jsb.
   Pencét Tombol di handap upami anjeun henteu ngartos ngeunaan fitur ieu.
@@ -136,7 +135,7 @@ play_mhelp_text: |
 bot_mhelp_text: |
   *✅Bot Commands:*
   ❍ /mstats - Get Top 10 Tracks Global Stats, Top 10 Users of bot, Top 10 Chats on bot, Top 10 Played in a chat etc etc.
-  ❍ /sudolist - Check Sudo Users of Libi Music Bot
+  ❍ /sudolist - Check Sudo Users of Amang Robot Music Bot
   ❍ /lyrics Music Name - Searches Lyrics for the particular Music on web.
   ❍ /song Track Name or YT Link - Download any track from youtube in mp3 or mp4 formats.
   
@@ -183,7 +182,7 @@ notes_button: "Catetan"
 source_button: "Kode sumber"
 help_button: "❓ Tulung"
 back_button: "🔙 Balik"
-about_button: " Tentang 𝒍𝒊𝒃𝒊 🤖"
+about_button: " Tentang ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ 🤖"
 inline_button: "inline!​​"
 buttonback_lang: "🔙 Balik"
 datalang: "Basa 🇮🇩" 
@@ -192,7 +191,7 @@ donate_button: "Donasi ☕️"
 # Donate
 donate_text: |
   [👨‍💻](https://telegra.ph/file/02630dc3593b90c9cc0e0.jpg) *Kanggo anjeun anu hoyong nyumbang*
-  punten scan Qris di handap, supados bot Libi tetep hirup sareng ngabantosan kagiatan anjeun dina Telegram.
+  punten scan Qris di handap, supados bot Amang Robot tetep hirup sareng ngabantosan kagiatan anjeun dina Telegram.
   
 # MODULES
 admin_help: |
@@ -359,7 +358,7 @@ blacklist_help: |
 bug_help : |
     ──「 Laporan Bug 」──
     
-    Laporan Bug Nyaéta modul pikeun ngalaporkeun bug dina bot 𝒍𝒊𝒃𝒊
+    Laporan Bug Nyaéta modul pikeun ngalaporkeun bug dina bot ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ
     Sangkan bot bisa dibenerkeun pas mungkin
     
     pamaréntah:
@@ -369,7 +368,7 @@ bug_help : |
 chatbot_help: |
     ──「 Bot Obrolan AI 」──
 
-    𝒍𝒊𝒃𝒊 AI mangrupikeun hiji-hijina sistem AI anu tiasa ngadeteksi & ngabales dugi ka 200 basa
+    ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ AI mangrupikeun hiji-hijina sistem AI anu tiasa ngadeteksi & ngabales dugi ka 200 basa
 
     ❂ /chatbot [ON/OFF]: Aktipkeun sareng mareuman  mode AI Chat.
     ❂ /chatbot EN : Aktipkeun chatbot Inggris wungkul.
@@ -385,7 +384,7 @@ cleaner_help: |
 
     *Ieu paréntah khusus Bencana, admin teu tiasa nganggo ieu :*
 
-    ❂ /gignoreblue <word>*:* sacara global teu malire beberesih téks biru tina kecap anu disimpen di 𝒍𝒊𝒃𝒊.
+    ❂ /gignoreblue <word>*:* sacara global teu malire beberesih téks biru tina kecap anu disimpen di ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ.
     ❂ /ungignoreblue <word>*:* miceun paréntah tina daptar cleanup global
 connection_help: |
     ──「 Sambungan 」──
@@ -465,7 +464,7 @@ fsub_feds_help: |
 
     *Maksakeun Langganan:*
 
-    𝒍𝒊𝒃𝒊 tiasa nganonaktipkeun anggota anu henteu ngalanggan saluran anjeun dugi ka ngalanggan nalika diaktipkeun, kuring bakal nganonaktipkeun anggota anu henteu ngalanggan sareng nunjukkeun tombol bisu. Nalika aranjeunna mencet tombol, Kuring bakal ngirining aranjeunna
+    ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ tiasa nganonaktipkeun anggota anu henteu ngalanggan saluran anjeun dugi ka ngalanggan nalika diaktipkeun, kuring bakal nganonaktipkeun anggota anu henteu ngalanggan sareng nunjukkeun tombol bisu. Nalika aranjeunna mencet tombol, Kuring bakal ngirining aranjeunna
 
     *Pengaturan* *:* *Hanya pencipta*
     ❂ Tambahkeun kuring di grup anjeun salaku admin
@@ -681,11 +680,11 @@ info_and_afk_help: |
       - brb <reason>: Sarua jeung paréntah afk, tapi henteu paréntah.
       
     *Naon kaséhatan?*
-    Kadieu sareng tingali [Deskripsi Sistem HP](https://t.me/libisupport/1199)
+    Kadieu sareng tingali [Deskripsi Sistem HP](https://t.me/Amang Robotsupport/1199)
 language_help: |
     ──「 Basa 」──
 
-    Henteu unggal Grup béntés dina basa Inggris; sabagian kelompok leuwih milih 𝒍𝒊𝒃𝒊 ngabales ku basana sorangan.
+    Henteu unggal Grup béntés dina basa Inggris; sabagian kelompok leuwih milih ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ ngabales ku basana sorangan.
 
     Ieu dimana tarjamah asalna di; Anjeun tiasa ngarobih basa seueur balesan kana pilihan anjeun!
 
@@ -820,9 +819,9 @@ search_help: |
     ❂ /github <username>*:* Kéngingkeun inpormasi ngeunaan pangguna GitHub.
     ❂ /country <nama negara>*:* Kumpulkeuinfo ngeunaan nagara nu tangtu
     ❂ /imdb <Nama film>*:* Kéngingkeun inpormasi lengkep ngeunaan pilem tina imdb.com
-    ❂ Libi <query>*:* Libi ngajawab pertanyaan
+    ❂ Amang Robot <query>*:* Amang Robot ngajawab pertanyaan
 
-    💡 Contoh : `Libi di mana Jepang?`
+    💡 Contoh : `Amang Robot di mana Jepang?`
 stickers_help: |
     ──「 Stiker 」──
 

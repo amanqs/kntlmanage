@@ -4,7 +4,7 @@
 
 <h4><p align="center"> LORD ILHAM </p></h4>
 
-<p align="center">Libi is a modular bot running on python3 with autobots theme and have a lot features.</p>
+<p align="center">Amang Robot is a modular bot running on python3 with autobots theme and have a lot features.</p>
 
 <p align="center">
 <a href="https://t.me/GreyCilikbot"> <img src="https://img.shields.io/badge/Grey-Cilik-blue?&logo=telegram" alt="Grey on Telegram" /> </a><br>

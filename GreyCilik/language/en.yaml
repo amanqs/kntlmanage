@@ -1,7 +1,7 @@
 # Language name in their native
 language: "English 🇬🇧"
 # name of people(s) who worked on this translation
-authors: "@greyyvbss"
+authors: "@amwangs"
 
 # languages
 curr_chat_lang: "Hey. Your current language is {}, select the one you want from the buttons below :)"
@@ -9,19 +9,19 @@ set_chat_lang: "Great, using {} Language it is from now on! 🤖"
 
 # PM Text
 pm_start_text: |
-  *Hello I'm Referz Store Assistant * [⚡️](https://te.legra.ph/file/d70ad4bd44df748796576.jpg)
+  *ʜᴇʟʟᴏ ᴍʏ ɴᴀᴍᴇ ᴀᴍᴀɴɢʀᴏʙᴏᴛ *
   
-  ❍ Referz Store Assistant is a bot manager to manage your group well.
-  ❍ Press /help for Help.
-  ❍ Maintaned By @Bintangreferz.
+  ᴀᴍᴀɴɢʀᴏʙᴏᴛ ɪs ᴀ ʙᴏᴛ ᴍᴀɴᴀɢᴇʀ + ᴍᴜsɪᴄ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡᴇʟʟ.
+  × 21586 ᴜꜱᴇʀꜱ 
+  × 7295 ᴄʜᴀᴛꜱ
    
 group_start_text: |
-  *👋🏻 , I'm Referz Store Assistant !*
+  *👋🏻 , I'm ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ !*
   
   *Started active since :* `{}`
 
 pm_about_text: |
-  ⚡️ Hey  I'm *Referz Store Assistant*, a powerful group management bot built to help you manage your group easily. ⚡️
+  ⚡️ Hey  I'm *ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ*, a powerful group management bot built to help you manage your group easily. ⚡️
 
   ❍ I can restrict users.
   ❍ I can greet users with customizable welcome messages and even set a group's rules.
@@ -30,12 +30,12 @@ pm_about_text: |
   ❍ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
   ❍ I check for admins' permissions before executing any command and more stuffs
 
-  _𝒍𝒊𝒃𝒊 Robot's licensed under the GNU General Public License v3.0_
-  Click on button bellow to get basic help for 𝒍𝒊𝒃𝒊.
+  _ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ Robot's licensed under the GNU General Public License v3.0_
+  Click on button bellow to get basic help for ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ.
 pm_about_admin_text: |
   *⚡️ Let's make your group bit effective now ⚡️*
 
-  Congragulations, 𝒍𝒊𝒃𝒊 now ready to manage your group.
+  Congragulations, ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ now ready to manage your group.
 
   *Admin Tools*
   Basic Admin tools help you to protect and powerup your group.
@@ -50,13 +50,13 @@ pm_about_notes_text: |
   ❍ You can save message/media/audio or anything as notes to get a note simply use # at the beginning of a word
   ❍ You can also set buttons for notes and filters (refer help menu)
 pm_about_support_text: |
-  *⚡️ 𝒍𝒊𝒃𝒊 support chats ⚡️*
+  *⚡️ ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ support chats ⚡️*
 
-  Join My Support Group/Channel for see or report a problem on 𝒍𝒊𝒃𝒊.
+  Join My Support Group/Channel for see or report a problem on ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ.
 pm_about_credit_text: |
-  *⚡️ Credits for 𝒍𝒊𝒃𝒊 ⚡️*
+  *⚡️ Credits for ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ ⚡️*
 
-  Here Developers Making And Give Inspiration For Made The 𝒍𝒊𝒃𝒊
+  Here Developers Making And Give Inspiration For Made The ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ
 pm_help_text: |
   *❍ Click on the button bellow to get description about specifics command. ❍*
   
@@ -82,12 +82,12 @@ group_settings_button: "Settings"
 
 # Help Text
 help_all_text: |
-  *𝒍𝒊𝒃𝒊 Robot Help Menu* [🗃](https://telegra.ph/file/6f5d77e5f2137215bc22d.jpg)
+  *ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ Robot Help Menu* [🗃](https://telegra.ph/file/6f5d77e5f2137215bc22d.jpg)
   
   Select the button below to see 
-  𝒍𝒊𝒃𝒊 command help.
+  ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ command help.
 help_musik_cilik_text: |
-  *𝒍𝒊𝒃𝒊 Robot Has Music and Stream features* 🎥
+  *ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ Robot Has Music and Stream features* 🎥
   
   You can listen to music from platforms Youtube, Spotify, Resso etc.
   Click the Button below if you don't understand about this feature.
@@ -136,7 +136,7 @@ play_mhelp_text: |
 bot_mhelp_text: |
   *✅Bot Commands:*
   ❍ /mstats - Get Top 10 Tracks Global Stats, Top 10 Users of bot, Top 10 Chats on bot, Top 10 Played in a chat etc etc.
-  ❍ /sudolist - Check Sudo Users of Libi Music Bot
+  ❍ /sudolist - Check Sudo Users of Amang Robot Music Bot
   ❍ /lyrics Music Name - Searches Lyrics for the particular Music on web.
   ❍ /song Track Name or YT Link - Download any track from youtube in mp3 or mp4 formats.
   
@@ -183,7 +183,7 @@ notes_button: "Notes"
 source_button: "Source Code"
 help_button: "❓ Get Help"
 back_button: "🔙 Back"
-about_button: "About Libi 🤖"
+about_button: "About Amang Robot 🤖"
 inline_button: "Try inline!​​"
 buttonback_lang: "🔙 Back"
 datalang: "Language 🇬🇧" 
@@ -192,7 +192,7 @@ donate_button: "Donate ☕️"
 # Donate
 donate_text: |
   [👨‍💻](https://telegra.ph/file/02630dc3593b90c9cc0e0.jpg) *Untuk kalian yang ingin berdonasi* 
-  silahkan scan Qris dibawah ini, agar bot Libi tetap hidup dan membantu aktifitas anda di Telegram. 
+  silahkan scan Qris dibawah ini, agar bot Amang Robot tetap hidup dan membantu aktifitas anda di Telegram. 
   
 # MODULES
 admin_help: |
@@ -359,7 +359,7 @@ blacklist_help: |
 bug_help : |
     ──「 Bug Report 」──
     
-    Bug Report Is a module for reporting bugs on 𝒍𝒊𝒃𝒊
+    Bug Report Is a module for reporting bugs on ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ
     So that the bot can be fixed as soon as possible
     
     Command : 
@@ -369,7 +369,7 @@ bug_help : |
 chatbot_help: |
     ──「 Chatbot AI 」──
 
-    𝒍𝒊𝒃𝒊 AI is the only ai system which can detect & reply upto 200 language's
+    ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ AI is the only ai system which can detect & reply upto 200 language's
 
     ❍ /chatbot [ON/OFF]: Enables and disables AI Chat mode.
     ❍ /chatbot EN : Enables English only chatbot.
@@ -465,7 +465,7 @@ fsub_feds_help: |
 
     *Force Subscribe:*
 
-    𝒍𝒊𝒃𝒊 can mute members who are not subscribed your channel until they subscribe When enabled I will mute unsubscribed members and show them a unmute button. When they pressed the button I will unmute them
+    ᴀᴍᴀɴɢ ʀᴏʙᴏᴛ can mute members who are not subscribed your channel until they subscribe When enabled I will mute unsubscribed members and show them a unmute button. When they pressed the button I will unmute them
 
     *Setup* *:* *Only creator*
     ❍ Add me in your group as admin
@@ -681,7 +681,7 @@ info_and_afk_help: |
       - brb <reason>: Same as the afk command, but not a command. 
       
     *What is that health thingy?*
-    Come and see [HP System explained](https://t.me/libisupport/1199)
+    Come and see [HP System explained](https://t.me/Amang Robotsupport/1199)
 language_help: |
     ──「 Language 」── 
 
@@ -820,9 +820,9 @@ search_help: |
     ❍ /github <username>*:* Get information about a GitHub user.
     ❍ /country <country name>*:* Gathering info about given country
     ❍ /imdb <Movie name>*:* Get full info about a movie with imdb.com
-    ❍ Libi <query>*:* Libi answers the query
+    ❍ Amang Robot <query>*:* Amang Robot answers the query
 
-    💡 Ex : `Libi where is Japan?`
+    💡 Ex : `Amang Robot where is Japan?`
 stickers_help: |
     ──「 Stickers 」──
 

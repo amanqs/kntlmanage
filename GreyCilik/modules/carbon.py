@@ -30,7 +30,7 @@ MEMEK = "https://telegra.ph/file/1768f132363de7b554b3b.jpg"
 async def repo(_, message):
     await message.reply_photo(
         photo=MEMEK,
-        caption=f"""✨ **Hey I'm Libi Bot** ✨ 
+        caption=f"""✨ **Hey I'm Amang Robot Bot** ✨ 
 **Owner : [Rojak](https://t.me/jokpelid)**
 **Python Version :** `{y()}`
 **Library Version :** `{o}`
@@ -44,7 +44,7 @@ async def repo(_, message):
                     InlineKeyboardButton(
                         "Repo", url="https://github.com/grey423/GreyCilik"), 
                     InlineKeyboardButton(
-                        "Support", url="https://t.me/libisupport")
+                        "Support", url="https://t.me/Amang Robotsupport")
                 ]
             ]
         )

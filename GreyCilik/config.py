@@ -21,7 +21,7 @@ class Config(object):
     SESSION_STRING = "1BVtsOHsBu6vg3_mJAS6bnHqsxjXTjR18we_vONyWua_6qmuTGB5jWV9huF9QwUah6Xqdn2O6f-rpJp3m6Mz2_bP2Bs70PnPqefLE8PG4tja2hT2Qfwf88ZBXqdRYlrj2yNGBhdA6B52ifxRh6mKsfjb-cJ-mBfp8kehNmRr4-7TqOIvg8gorlsMxAbCe03zgw9gvv6CSrdqY7-tCy84hnity-l4DA0cx3_APc-rVGZM00lPw104O4tgT5fJyXyvukswBoQyVIABWAALEzaUN-hDZQ6hmIK7CSqYThoaDrRyjKVtNAU2pEmH6TsFqaVghRTlkYw7DBqrLzZWW9BHmFFm2UK97E1w="
     TOKEN = "5094084246:AAGBc12Zxe85p91viNPZUfEQ2mg7OzBDEHE"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = 1784606556  # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "greyyvbss"
+    OWNER_USERNAME = "amwangs"
     DB_URL = "postgresql://ajgqajge:RyVELQQ2_RdhhaSUdH4Z-Dx7kxyj0DVZ@ruby.db.elephantsql.com/ajgqajge"
     SUPPORT_CHAT = "CilikSupport"  # Your own group for support, do not add the @
     ERROR_LOG = (

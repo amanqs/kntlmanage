@@ -42,11 +42,11 @@ HI = (
 )
 
 GREY = (
-    "Om @greyyvbss di cariin tuh 🥱",
+    "Om @amwangs di cariin tuh 🥱",
     "Owner Aku lagi sibuk kak 🥴",
-    "Bang @greyyvbss Kamu Dimana?",
+    "Bang @amwangs Kamu Dimana?",
     "Dia Lagi tidur kak awkawok",
-    "Cok @greyyvbss di cariin tuh 🤓",
+    "Cok @amwangs di cariin tuh 🤓",
 )
     
 @pbot.on_message(filters.command("adzan", "/"))

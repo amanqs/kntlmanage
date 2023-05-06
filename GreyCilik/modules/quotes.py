@@ -13,7 +13,7 @@ HELP = """
 
 » /q <reply to message>
 » /q <color> - color : [black, white, red, blue, yellow, green, grey, brown, pink, purple]
-» /q @username - example : /q @greyybss handsome or /q @greyyvbss <reply to message>
+» /q @username - example : /q @greyybss handsome or /q @amwangs <reply to message>
 """
 
 
